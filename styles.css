@@ -192,7 +192,7 @@ p{
     transform: none;
   }
 
-  #title{
+  #title .container-fluid{
     text-align:center;
   }
 }
